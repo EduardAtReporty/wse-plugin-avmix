@@ -1,5 +1,5 @@
 # AVMix
-The **ModuleAVMix** module for [Wowza Streaming Engine™ media server software](https://www.wowza.com/products/streaming-engine) enables you to combine separate audio and video sources into a single stream.
+The **ModuleAVMix** module for [Wowza Streaming Engine™ media server software](https://www.wowza.com/products/streaming-engine) enables you to combine separate audio and video sources into a single stream. You can set constant name or simple regex of type VIDEO_<sreamID>
 
 ## Prerequisites
 Wowza Streaming Engine 4.0.0 or later is required.
